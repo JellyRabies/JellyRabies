@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JellyRabies
 - 👀 I’m interested in Data Science and Dev Ops
 - 🌱 I’m currently learning Python, Go and Powershell
-- 💞️ I’m looking to collaborate on Data Science projects 
+- 💞️ I’m looking to collaborate on Data Science and Dev Ops projects, plugins and libraries.
 - 📫 How to reach me... I'm working on that as I'm afraid of being spammed!!
 
 <!---
